@@ -1,4 +1,4 @@
-### Hello there! 👋
+### Hey there! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Dylan%20Maguire-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/d-maguire/)](https://www.linkedin.com/in/d-maguire/) 
 [![GitHub followers](https://img.shields.io/github/followers/dylanmaguire.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/dylanmaguire?tab=followers)
