@@ -7,11 +7,12 @@ I'm a MEng Computer Science with Artificial Intelligence Graduate from [Universi
 
 Current areas I am actively working on :sparkles::
   - Web Development (HTML, CSS, JS/TS, React)
+  - Computational Finance (Quant Modelling and Analysis)
 
-Current topics I am interested in developing are:
+Current topics I am interested in developing further are:
   - Machine Learning and Deep Learning
   - Blockchain Development
-  - Computational Finance (Quant Modelling and Analysis)
+
 
 ### 4th Year
 During my 4th year at Southampton I wanted to further my knowledge of AI and Data Science and thus completed modules such as Data Visualisation, Computational Finance, Data Mining, Social Media and Network Science as well as curbing my insatiable thirst for business through E-Business Strategy. 
