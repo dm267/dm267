@@ -1,7 +1,7 @@
 ### Hey there! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Dylan%20Maguire-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/d-maguire/)](https://www.linkedin.com/in/d-maguire/) 
-[![GitHub followers](https://img.shields.io/github/followers/dylanmaguire.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/dylanmaguire?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/dm267.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/dm267?tab=followers)
 
 I'm a MEng Computer Science with Artificial Intelligence Graduate from [University of Southampton](https://www.southampton.ac.uk/) with aspirations to work in a role which combines data science and machine learning engineering to solve real world problems.
 
@@ -29,10 +29,10 @@ and focused on a multi-faceted approach to predict a Twitter users personality t
 <details>
   <summary> <b> Profile stats </b> <i> (Click to expand!)</i> </summary>
   
-  [![Github Langs By dm267](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanmaguire&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
+  [![Github Langs By dm267](https://github-readme-stats.vercel.app/api/top-langs/?username=dm267&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
   
   <!--
-  **[![HitCount](https://views.whatilearened.today/views/github/dylanmaguire.svg)](https://github.com/dylanmaguire/)
+  **[![HitCount](https://views.whatilearened.today/views/github/dm267.svg)](https://github.com/dylanmaguire/)
   -->
 ---
 
